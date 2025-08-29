@@ -1,1 +1,1 @@
-# automated-remediations
+# Automated STIG Compliance Remediation
