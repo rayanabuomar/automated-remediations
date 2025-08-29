@@ -1,4 +1,4 @@
-# Automated STIG Compliance Remediation
+# Automated Remediations
 
 # Windows 10 DISA STIG PowerShell Remediations
 
