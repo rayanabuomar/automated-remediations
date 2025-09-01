@@ -1,4 +1,4 @@
-# Automated Remediations
+
 
 # Windows 10 DISA STIG PowerShell Remediations
 
